@@ -59,7 +59,7 @@ const Dashboard = () => {
             rel="noreferrer"
             className="text-blue-500"
           >
-            View GitHub Profile
+            View GitHub 
           </a>
         </div>
       </div>
